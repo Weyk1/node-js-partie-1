@@ -1,0 +1,22 @@
+{
+  "name": "nodejsinit",
+  "version": "1.0.0",
+  "description": "initialisationPackage",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GitRipo"
+  },
+  "keywords": [
+    "GitRepo"
+  ],
+  "author": "Karl",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mustache-express": "^1.3.2"
+  }
+}
